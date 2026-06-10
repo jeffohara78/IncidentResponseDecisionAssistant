@@ -1,0 +1,14 @@
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\bin\Debug\net8.0\IncidentResponseDecisionAssistant.exe
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\bin\Debug\net8.0\IncidentResponseDecisionAssistant.deps.json
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\bin\Debug\net8.0\IncidentResponseDecisionAssistant.runtimeconfig.json
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\bin\Debug\net8.0\IncidentResponseDecisionAssistant.dll
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\bin\Debug\net8.0\IncidentResponseDecisionAssistant.pdb
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.dll
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\refint\IncidentResponseDecisionAssistant.dll
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.pdb
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\IncidentResponseDecisionAssistant.genruntimeconfig.cache
+C:\Users\Jeff\source\repos\IncidentResponseDecisionAssistant\IncidentResponseDecisionAssistant\obj\Debug\net8.0\ref\IncidentResponseDecisionAssistant.dll
